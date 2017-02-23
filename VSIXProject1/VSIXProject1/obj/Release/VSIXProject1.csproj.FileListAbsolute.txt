@@ -1,0 +1,9 @@
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\bin\Release\ProjectTemplates\ElobuddyAddonChampTemplate.zip
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\bin\Release\__PreviewImage.png
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\bin\Release\__TemplateIcon.ico
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\bin\Release\VSIXProject1.vsix
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\bin\Release\extension.vsixmanifest
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\obj\Release\VSIXProject1.csprojResolveAssemblyReference.cache
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\obj\Release\VSIXProject1.dll
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\obj\Release\VSIXProject1.pdb
+C:\Users\Timot\Documents\Visual Studio 2017\Projects\VSIXProject1\VSIXProject1\obj\Release\extension.vsixmanifest
